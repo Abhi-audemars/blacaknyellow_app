@@ -1,4 +1,4 @@
-import 'package:blacaknyellow_app/global_variables.dart';
+import 'package:blacaknyellow_app/utils/global_variables.dart';
 import 'package:blacaknyellow_app/screens/profile_screen.dart';
 import 'package:blacaknyellow_app/widgets/custom_text.dart';
 import 'package:blacaknyellow_app/widgets/top_performances.dart';

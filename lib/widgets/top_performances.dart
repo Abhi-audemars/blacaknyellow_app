@@ -1,4 +1,4 @@
-import 'package:blacaknyellow_app/global_variables.dart';
+import 'package:blacaknyellow_app/utils/global_variables.dart';
 import 'package:blacaknyellow_app/provider/user_provider.dart';
 import 'package:blacaknyellow_app/utils/utils.dart';
 import 'package:flutter/material.dart';

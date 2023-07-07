@@ -1,4 +1,4 @@
-import 'package:blacaknyellow_app/global_variables.dart';
+import 'package:blacaknyellow_app/utils/global_variables.dart';
 import 'package:blacaknyellow_app/screens/bottom_navbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
